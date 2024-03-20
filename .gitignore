@@ -8,7 +8,7 @@
 
 # Custom
 *draft.ipynb
-my*.ipynb
+#my*.ipynb
 myData
 */myData
 myModels
